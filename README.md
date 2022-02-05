@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **C++, DART, PYTHON**
 
-- 📫 How to reach me <a href="dev.mohamed.yasser@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/plasticine/50/000000/gmail-new.png" alt="mohamedyassir" height="30" width="40" /></a>
+- 📫 How to reach me < a href="dev.mohamed.yasser@gmail.com">Gmail< /a>*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,4 +27,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m0xyasser&show_icons=true&theme=dark&locale=en" alt="m0xyasser" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m0xyasser&" alt="m0xyasser" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m0xyasser&theme=dark" alt="m0xyasser" /></p>
