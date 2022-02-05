@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **C++, DART, PYTHON**
 
-- 📫 How to reach me <a href="dev.mohamed.yasser@gmail.com">Gmail</a>
+- 📫 How to reach me <a href = "mailto: dev.mohamed.yasser@gmail.com">Send Email</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
