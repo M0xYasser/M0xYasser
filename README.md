@@ -10,7 +10,7 @@
 
 - 🎓 I’m currently studying in **AIET**
 
-- 🌱 I’m currently learning **C++ , GO**
+- 🌱 I’m currently learning **C++ , PYTHON**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/M0xYasser?tab=repositories)
 
