@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Yasser</h1>
 <h3 align="center">My ambition is to be DevOps developer ❤️</h3>
 
-<p align="center"> <img src="https://img.shields.io/badge/I%20Support-%20%F0%9F%87%B5%F0%9F%87%B8%20Palestine-007A3D" alt="m0xyasser" /> </p>
+<p align="center"> <img src="https://img.shields.io/badge/I%20Support-%20🍉%20Palestine-007A3D" alt="m0xyasser" /> </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=m0xyasser&label=Profile%20views&color=0e75b6&style=flat" alt="m0xyasser" /> </p>
 
